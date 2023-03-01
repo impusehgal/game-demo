@@ -20,6 +20,11 @@ let resetButton;
 <input type="number" id="guessField" class="guessField" />
 <input type="submit" value="Submit guess" class="guessSubmit" />
 
-  function checkGuess() {
+  
+function checkGuess() {
   alert('I am a placeholder');
 }
+
+
+
+
